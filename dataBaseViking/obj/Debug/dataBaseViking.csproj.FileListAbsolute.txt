@@ -1,0 +1,9 @@
+C:\Users\sereg\source\repos\dataBaseViking\bin\Debug\dataBaseViking.dll
+C:\Users\sereg\source\repos\dataBaseViking\bin\Debug\dataBaseViking.pdb
+C:\Users\sereg\source\repos\dataBaseViking\bin\Debug\System.Data.SQLite.dll
+C:\Users\sereg\source\repos\dataBaseViking\bin\Debug\System.Data.SQLite.xml
+C:\Users\sereg\source\repos\dataBaseViking\obj\Debug\dataBaseViking.csproj.AssemblyReference.cache
+C:\Users\sereg\source\repos\dataBaseViking\obj\Debug\dataBaseViking.csproj.CoreCompileInputs.cache
+C:\Users\sereg\source\repos\dataBaseViking\obj\Debug\dataBaseViking.csproj.CopyComplete
+C:\Users\sereg\source\repos\dataBaseViking\obj\Debug\dataBaseViking.dll
+C:\Users\sereg\source\repos\dataBaseViking\obj\Debug\dataBaseViking.pdb
